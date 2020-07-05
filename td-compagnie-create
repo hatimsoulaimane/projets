@@ -1,0 +1,2 @@
+create database compagnie-aerienne;
+create database if not exists compagnie_aerienne;
